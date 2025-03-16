@@ -120,5 +120,5 @@ If you liked this project, don't forget to ⭐ star the repository!
 
 ---
 
-🚀 **Developed by [Your Name](https://github.com/alwaysdaya123)** 🚀
+🚀 **Developed by [AlwaysDaya](https://github.com/alwaysdaya123)** 🚀
 
