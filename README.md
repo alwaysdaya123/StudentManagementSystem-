@@ -80,7 +80,7 @@ mvn spring-boot:run
 ### ➤ Create a New Student (POST `/students`)
 ```json
 {
-  "student_name": "John Doe",
+  "student_name": "Dayakar",
   "student_branch": "Computer Science",
   "student_percentage": 85.6
 }
@@ -90,7 +90,7 @@ mvn spring-boot:run
 ```json
 {
   "roll_no": 1,
-  "student_name": "John Doe",
+  "student_name": "Dayakar",
   "student_branch": "Computer Science",
   "student_percentage": 85.6
 }
@@ -120,5 +120,5 @@ If you liked this project, don't forget to ⭐ star the repository!
 
 ---
 
-🚀 **Developed by [AlwaysDaya](https://github.com/alwaysdaya123)** 🚀
+🚀 **Developed by [Dayakar](https://github.com/alwaysdaya123)** 🚀
 
